@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant mirrour, in proper postures and principles: or, The careful resident, and the careless non-resident</title>
+            <author>Hieron, Samuel, 1576?-1617.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43743</idno>
+            <idno type="STC">Wing H1943B</idno>
+            <idno type="STC">ESTC R213455</idno>
+            <idno type="EEBO-CITATION">99825833</idno>
+            <idno type="PROQUEST">99825833</idno>
+            <idno type="VID">30224</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30224)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1795:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant mirrour, in proper postures and principles: or, The careful resident, and the careless non-resident</title>
+                  <author>Hieron, Samuel, 1576?-1617.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (engr.)  </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Cross, seignior; in Harp-Court, neer Fleet-Bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+                  <note>Above the text, occupying approximately half the sheet, is an engraved illustration depicting two clergymen, the left hand one bearing the caption: "The carefull resident. .." and the right: "The careless non-resident. ..".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Clergy --  Appointment, call, and election --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:30224:1" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>The Carefull RESIDENT</head>
+               </figure>
+            </p>
+            <p>
+               <figure>
+                  <head>The Careleſs NON-RESIDENT</head>
+               </figure>
+            </p>
+         </div>
+         <div type="treatise">
+            <head>The Proteſtant Mirrour, in proper Poſtures and Principles: OR, The Careful Reſident, and the Careleſs Non-Reſident.</head>
+            <div type="part">
+               <head>The Tryal of DOCTRINES, Its Neceſſity, and the Sure way: <hi>For the Service of the</hi> Church, <hi>and Strengthning of</hi> Believers.</head>
+               <byline>By <hi>Samuel Hieron,</hi> Miniſter of the Goſpel.</byline>
+               <p>THe courſe of ſeeking Holy Knowledge, at the mouths of thoſe, whoſe Lips by their calling ought to preſerve it, is tearmed by <hi>Solomon,</hi> a buying of the Truth. As there<g ref="char:EOLhyphen"/>fore in buying, it is every mans Wiſdom to conſider the Wares which are tendered to him, how they are conditioned, and (as <hi>Chryſoſtom</hi> ſaith pithily to this purpoſe) <hi>To go from Shop to Shop, and from Chapman to Chapman, to look where he may have the beſt, be<g ref="char:EOLhyphen"/>fore he make a through bargain</hi>: ſo it ought to be the care of a pru<g ref="char:EOLhyphen"/>dent Chriſtian, to conſider of particulars, which are taught, be<g ref="char:EOLhyphen"/>fore he give them entertainment. <hi>Take heed how you hear,</hi> ſaid our Saviour; doth not this take heed in hearing intend a tryal of <hi>things heard?</hi>
+               </p>
+               <p>Some purpoſe to deceive, whom the Apoſtle tearmeth <hi>Lyers in wait to deceive,</hi> and whom he compares (according to the nature of the Greek Word uſed) to <hi>Cheaters and falſe Gameſters, who have devices by cogging Dice, to deceive the unskilful.</hi> Theſe ſpeak per<g ref="char:EOLhyphen"/>verſe things, and privily bring in damnable Hereſies. It hath been an antient practice of the Devil, to be a lying ſpirit in the <hi>mouths of ſome Prophets</hi>; There have been ever <hi>ſome miſleading leaders, cau<g ref="char:EOLhyphen"/>ſers of the people to err by their lyes</hi>; and Saint <hi>Peter</hi> hath aſſured us, that in this particular, <hi>the latter times will-hold proportion with the former: Still there will be ſome Seeds-men of Tares amongſt them that ſow the purer Wheat, ſome temperers of Leaven, with the ſweet Lump of Gods ſacred Truth.</hi>
+               </p>
+               <p>A Man might ſo lap up the poiſonous drugs of <hi>Popery,</hi> and ſo gild them over with the ſeeming Allowance of Scripture, and of hore-headed Antiquity, that even the greateſt part would ſoon ſwallow them down without ſuſpition.</p>
+               <p>We diſclaim all Lordſhip over your faith, <hi>We are ſet on Work, for the ſervice of your Faith, not for commanding it.</hi> We leave it to Papiſts to Tyrannize over Mens <hi>Thoughts</hi> in matters of <hi>Religion,</hi> and to require the people to lap up their faith in the <hi>general believ<g ref="char:EOLhyphen"/>ing of the Church.</hi> We deſire you to <hi>Try,</hi> we beſeech you to <hi>enquire,</hi> we would fain bring you to ſtand in the ways and ask, <hi>we know you can never till then have ſtabliſhed hearts.</hi>
+               </p>
+               <p>The <hi>main Touch</hi> by whch all Doctrine <hi>muſt be tryed,</hi> and <hi>by which</hi> it muſt either <hi>ſtand or fall,</hi> is the will of God revealed in the <hi>ſcrip<g ref="char:EOLhyphen"/>tures. Bring them to the Law, and to the Teſtimony,</hi> (ſaid the Oracle of God of old) <hi>and conſider whether they ſpeak according to that word.</hi> By this our Saviour himſelf <hi>was content to be Tryed</hi>: by this the preaching of <hi>Paul</hi> and <hi>Silas</hi> at <hi>Theſſalonica</hi> was <hi>tryed</hi>: Religious Doctrines are Gods matters, and ſhall we have a better then God to be <hi>tryed</hi> by, in the <hi>things of God</hi>? and how ſhall we know what is Gods mind in a <hi>matter of Doctrine,</hi> but by the <hi>Scriptures</hi>? Excel<g ref="char:EOLhyphen"/>lent ſpake he, who called the Scripture <hi>the Heart and Soul of God</hi>; and he who affirmed <hi>that God hath left for us in the Scriptures, a Fortreſs againſt Errors.</hi> Let Papiſts (if they will needs) perſiſt in their blaſphemous diſclaiming the <hi>tryal of the Scripture,</hi> accounting <hi>Traditions</hi> to be the <hi>Touchſtone of Doctrine, and foundation of Faith.</hi>
+               </p>
+               <p>We will ever account them the Divine beam; and the moſt ex<g ref="char:EOLhyphen"/>act ballance, and approve that courſe of that great <hi>Conſtantine,</hi> ex<g ref="char:EOLhyphen"/>horting the Fathers aſſembled in the <hi>Nicene</hi> Council, <hi>to take the re<g ref="char:EOLhyphen"/>ſolution of things in queſtion, out of the divinely inſpired Writings.</hi>
+               </p>
+               <p>And let Men learn here by the way, how neceſſary it is for <hi>them,</hi> if they would be rightly grounded in religion, to be well acquain<g ref="char:EOLhyphen"/>ted in the <hi>Scriptures.</hi> Our Saviours rule can never fail, <hi>You are de<g ref="char:EOLhyphen"/>ceived, not knowing the Scriptures.</hi> God forbid, we ſhould under any pretext diſhearten you in your care to turn over Gods Book. Let profaneneſs, and Popery caſt reproaches, upon diligence and or<g ref="char:EOLhyphen"/>dinarineſs; herein we the Miniſters of Chriſt, ſhall rather call up<g ref="char:EOLhyphen"/>on you as <hi>Chryſoſtome</hi> of old did upon his hearers, <hi>Hear, O ve men of the World, get you Bibles. It is</hi> (ſaith another of the Antients) <hi>of all torments, the greateſt to the Devils, if they ſee a Man given to Reading of the Scriptures.</hi>
+               </p>
+               <p>We wondred of late times, to ſee ſo many not ſimple people one<g ref="char:EOLhyphen"/>ly, but Learned <hi>Clerks</hi> and <hi>Rabbies,</hi> to turn <hi>Papiſts,</hi> we needed not, if we had conſidered, that their <hi>hearts</hi> were gone to <hi>Rome</hi> before, and now their <hi>heads</hi> followed after. Were they well examined, many of them, it would be found, they firſt <hi>put away a good conſcience,</hi> before they <hi>made ſhipwrack of the Faith</hi>; their <hi>hearts</hi> betrayed their <hi>heads.</hi> Many of them were (its known they were) <hi>Covetous, Ambiti<g ref="char:EOLhyphen"/>ous, <g ref="char:V">Ʋ</g>oluptuous</hi>; and <hi>Popery</hi> hath <hi>baits</hi> of all ſorts to catch them: that great <hi>Harlot</hi> and <hi>Mother of Fornications,</hi> hath a Golden Cup, full of <hi>Preferments, Profits, Pleaſures,</hi> and this made mens heads Drunk and Giddy, to embrace the groſſeſt Errors and Obſurdities for Truths.</p>
+               <p>Chriſt cannot be taken nor overtaken, Hunt and Catch, and lay Snares who will; <hi>Saul, Judas,</hi> or all the Violent Crafty Hypocrites in the World. A Bow of Steel is broken by his Hand: Hell is naked before him; not onely open, but naked as a thing without all ſtrength or force to hurt.</p>
+               <p>When the Kingdom is deſtroyed by hearkening to flatterers and ſelf-ſeekers, what will ye do? If you ſhall to pleaſe fawning Men, or froward men, diſpleaſe God, and betray all into the hands of his wrath, what will theſe unworthy perſons advantage you? when the guilt of the blood of thouſands, lies upon your conſciences, will you ſend them for thoſe Clergy-men, or States-men, which miſlead you? why, you may, and miſerable comforters will they be.</p>
+               <p>
+                  <hi>The Ram was caught behind him,</hi> Geneſis 22. 13. The pleaſure of the Lord doth proſper at his pleaſure, and as his pleaſure; ſome<g ref="char:EOLhyphen"/>times before us, that is, in ways which we can reach, and ſerve Gods providence in; ſometimes again, <hi>behind us,</hi> that is, in ſuch ways as we cannot reach, to lend him the leaſt Concurrence in, to teach that our expectation ſhould be purely plac'd upon his word, and that we ſhould ſay to our Souls in all ſtraits, <hi>The pleaſure of the Lord ſhall proſper in his hand. Abraham</hi> had no hands behind him, neither do men ordinarily go that way to catch things, yet there was the Ramm caught.</p>
+               <p>If ever <hi>England</hi> ſhine, or any Inſtrument in <hi>England,</hi> 'twill be as in his hand, by whom alone all ſhall proſper. Expectation pure, the Spirit is ſolid, very high, and yet very low, never at a loſs.</p>
+               <p>Nothing makes the way of a Mans Spirit ſo wide and ſweet with<g ref="char:EOLhyphen"/>in him, as fidelity to God and to his Conſcience; 'tis ſo in bigger bodies, nothing makes the way of a Kingdom more quiet and proſ<g ref="char:EOLhyphen"/>perous within it ſelf, then faithful dealing with God, and the ad<g ref="char:EOLhyphen"/>vantages it hath by his hand.</p>
+               <p>
+                  <hi>Is God amongſt us? Iſrael</hi> wants water, <hi>Amalek</hi> waits to give bat<g ref="char:EOLhyphen"/>tel, and this great ſtraight made that great State fall a chiding of God and one another. <hi>Is God amongſt us?</hi> The place was called for this, <hi>Maſſah, Meribah (i.d.) ſtriving</hi> and <hi>chiding.</hi> The bigger Bodies are, with the greater difficulties they move; now when great diffi<g ref="char:EOLhyphen"/>culties, make great impatience, towards God and towards one ano<g ref="char:EOLhyphen"/>ther, this and not our ſtraights indangers all.</p>
+               <p>I know nothing wherein a wiſe Chriſtian hath more cauſe to fear himſelf, that his love nor his zeal is not ſo ſervent as it hath been.</p>
+            </div>
+            <div type="part">
+               <head>The Ship-wrack'd CLERK Whoſe <hi>Heart</hi> was gone to <hi>Rome</hi> before his <hi>Head</hi>: Drawn to the Life by his own PENSIL.</head>
+               <p>That the <hi>Presbiterians</hi> were ſuch Perſons, as the very Devil Bluſh'd at them; and that the Villain <hi>Hamden</hi> grudged, and made it more Scruple of Conſcience, to give Twenty Shillings to the KING, for ſupplying his Neceſſities by Ship-Money and Loan, which was His <hi>Right</hi> by Law, than to raiſe Rebellion againſt Him: And that the <hi>Presbiterians</hi> are worſe (and far more Intollerable) than either <hi>Prieſts</hi> or <hi>Jeſuits.</hi>
+               </p>
+               <p>That a <hi>Presbiterian</hi> Brother, <hi>qua talis,</hi> was as great a Traytor by the Statute, as any <hi>Prieſt</hi> or <hi>Jeſuit</hi> whatſoever.</p>
+               <p>Mr. <hi>Thompſon</hi> in his Preaching inveyed bitterly againſt Subſcribing Petitions for Sitting of this Parliament, ſaying, That it was like the Seed of Rebellion and like to Forty One; and that the Devil ſet them on work, and the Devil would pay them their Wages; ſaying, That before he would ſet his Hand to ſuch Petitions, he would cut it off, yea, &amp; cut them off.</p>
+               <p>Mr. <hi>Thompſon</hi> comes to this Informant, Mr. <hi>Rowe,</hi> and claps his Hands on his Shoulders, ſaying, Hah Boy, had Queen <hi>Elizabeth</hi> been living, you needed not to have been Sword-bearer of <hi>Briſtol.</hi> The ſaid <hi>Rowe</hi> asked him why? He replyed, She loved ſuch a luſty Rogue (ſo well) as he was, and he would have been very fit for her drudgery at <hi>White-Hall.</hi>
+               </p>
+               <p>Mr. <hi>Thompſon</hi> ſaid <hi>Jan.</hi> 30. 1679. in the ſame Sermon, There was a great noiſe of a <hi>Popiſh</hi> Plot, but, ſays he, Here is nothing in it but a <hi>Presbyterian</hi> Plot; for here they are going about to Petition for the Sit<g ref="char:EOLhyphen"/>ting of the Parliament, but the end of it will be to bring the Kings Head to the Block, as they have done his Father.</p>
+               <p>Mr. <hi>Thompſon</hi> ſpeaking concerning the Meeters in private, ſaid, He would hale them out and fill the Goals with them, and hoped to ſee their Houſes afire about their ears in a ſhort time; and this, he the ſaid <hi>Thomp<g ref="char:EOLhyphen"/>ſon,</hi> doubled again and again.</p>
+               <p>
+                  <hi>Thompſon</hi> ſaid, If he were as well ſattisfied of other things, as he was of Juſtification, Auricular Confeſſion, Penance, Extream <g ref="char:V">Ʋ</g>nction, and Criſme in Baptiſm, he would not have been ſo long ſeparated from the <hi>Catholick</hi> Church. And further affirmed, That the Church of <hi>Rome</hi> was the True <hi>Catholick</hi> Church.</p>
+               <p>Further, he hath heard him ſay, The King was a Perſon of mean and ſoft Temper and could be led eaſily to any thing, but yet a <hi>Solomon</hi> in vices; but that the Duke of <hi>York</hi> was a Prince of a brave Spirit, would be faith<g ref="char:EOLhyphen"/>ful to his Friends, &amp;<hi>c.</hi>
+               </p>
+               <p>And that in Diſcourſe, he commended the <hi>Romiſh</hi> Clergy for their ſingle Life, and is himſelf ſo; and did at the ſame time Vilify and Rail at the <hi>Engliſh</hi> Clergy for Marrying; ſaying, It was better for a Clergy-Man to be Guelt, then to Marry; and that the <hi>Calviniſts</hi> in <hi>France</hi> were Le<g ref="char:EOLhyphen"/>cherous Fellows, &amp;<hi>c.</hi>
+               </p>
+               <p>He further ſaid in the Pulpit at St. <hi>Thomas</hi>'s, That after Excommu<g ref="char:EOLhyphen"/>nication by the Biſhop, without Abſolution from the Spiritual Court, ſuch a one was ſurely Damned; and he would pawn his Soul for the Truth of it.</p>
+               <l>O! when ſuch <hi>Clergy</hi> at the Dreadful Day,</l>
+               <l>Shall make their <hi>Audit</hi>; when the Judge ſhall ſay,</l>
+               <l>
+                  <hi>Give your Accompts</hi>; what, have my <hi>Lambs</hi> been Fed?</l>
+               <l>Say, do they all ſtand Sound? is there none Dead</l>
+               <l>By your Defaults? come Shepherds, bring them forth,</l>
+               <l>That I may Crown your <hi>Labours</hi> in their <hi>Worth.</hi>
+               </l>
+               <l>O what an Anſwer will be given by ſome,</l>
+               <l>We have been Silent, <hi>Profit</hi> ſtruck us Dumb;</l>
+               <l>To ſay the Truth, Great Judge, they were not Fed,</l>
+               <l>Lord, here they be, but Lord, they are all Dead.</l>
+               <l>Ah Cruel Shepherds! could your Conſcience ſerve,</l>
+               <l>To <hi>Fleece</hi> your Flock, and then to let them <hi>Starve</hi>!</l>
+               <trailer>Finis.</trailer>
+            </div>
+         </div>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Tho. Croſs, <hi>Seignior; in</hi> Harp-Court, <hi>neer</hi> Fleet-Bridge, 1681.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
